@@ -1,6 +1,6 @@
 {
     "name": "skylee/php_socket_client",
-    "license": "mt",
+    "license": "MIT",
     "authors": [
         {
             "name": "skylee",
