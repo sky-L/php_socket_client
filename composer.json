@@ -7,7 +7,6 @@
             "email": "690035384@qq.com"
         }
     ],
-    "minimum-stability": "alpha",
     "require": {
         "php" : ">5.3.0"
     },
