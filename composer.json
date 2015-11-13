@@ -1,7 +1,7 @@
 {
     "name": "sky-l/php_socket_client",
     "license": "MIT",
-    "minimum-stability" : "stable",
+    "minimum-stability" : "dev",
     "authors": [
         {
             "name": "skylee",
