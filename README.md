@@ -1,6 +1,6 @@
 # php_socket_client
 
-> 这个包的功能和[workerman](http://www.workerman.net/gatewaydoc/advanced/push.html) 的功能没有任何修改，只是把做成了一个包。方便使用composer的项目使用
+> 这个包的功能和[workerman](http://www.workerman.net/gatewaydoc/advanced/push.html) 的功能没有任何修改，只是做成了一个包。方便使用composer的项目使用
 
 ## 使用
 
@@ -23,6 +23,4 @@ Gateway::sendToClient($client_id,'{"type":"say","content":"hello"}');
 
 Gateway::isOnline($client_id);
 ```
-
-
 
